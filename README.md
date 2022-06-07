@@ -18,11 +18,16 @@ My University projects: [Uni Projects](https://github.com/michalbidzinski1?tab=r
 
 </br>
 
-## How to reach me 📝
--  [email](mailto:michalbidzinski12@gmail.com)
+## 📫 How to reach me
+
+<div align="center">
 <a href="https://www.linkedin.com/in/michał-bidziński-6b8919236/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<a/> -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a/>
+<a href="mailto:michalbidzinski12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a/>
+</div>
 <!--
 **michalbidzinski1/michalbidzinski1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
