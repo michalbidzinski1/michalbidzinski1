@@ -1,6 +1,6 @@
 
 
-<h3> Hi there 👋 </h3>
+<h3> Hi  👋 </h3>
 
 I am a second-year Computer Science Student at the University of Gdańsk. The degree
 course enables the access to wide range of programming languages so that I
