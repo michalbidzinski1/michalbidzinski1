@@ -13,8 +13,10 @@ My University projects: [Uni Projects](https://github.com/michalbidzinski1?tab=r
 
 ## Languages and Tools ⚡
 - 💬 Frontend: React, Redux, JavaScript, CSS, SASS, HTML
-- 🌱 Backend: NoSQL and SQL Databses: Express, Node, Mongo-Mongoose, Redis, PostgreSQL, MySQL, Neo4j,   
-- 🔭 Other: Git, Python, Bash, Docker, Kubernetes, Node, Linux, Scala, Java
+- 🌱 Backend: Node.js, Express.js, NoSQL and SQL Databases: Mongo-Mongoose, Redis, PostgreSQL, MySQL, Neo4j,   
+- 🔭 Other languages: Python, Java, Scala
+- ⚡ Tools: Docker, Kubernetes, Git, Bash, Linux
+
 
 </br>
 
