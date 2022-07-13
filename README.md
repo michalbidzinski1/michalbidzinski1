@@ -11,7 +11,7 @@ My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories)
 
 </br>
 
-## Languages and Tools ⚡
+## Languages and Tools 🛠️
 - 💬 Frontend: React, Redux, JavaScript, CSS, SASS, HTML, 
 - 🌱 Backend: Node.js, Express.js, NoSQL and SQL Databases: Mongo-Mongoose, Redis, PostgreSQL, MySQL, Neo4j,   
 - 🔭 Other languages: Python, Java, Scala
