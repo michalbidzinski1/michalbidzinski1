@@ -2,8 +2,8 @@
 
 <h3> Hi  👋 </h3>
 
-I am a second-year Computer Science Student at the University of Gdańsk. The degree
-course enables the access to wide range of programming languages so that I
+I am a second-year Computer Science Student at the University of Gdańsk (expected graduation 06/2023 Bachelor's degree). 
+The degree course enables the access to wide range of programming languages so that I
 could gain knowledge and practice in many areas. I am looking for a job
 opportunity where I can continue my development.
 
