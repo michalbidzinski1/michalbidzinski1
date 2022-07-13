@@ -17,7 +17,7 @@ My University projects: [Uni Projects](https://github.com/michalbidzinski1?tab=r
 - 🔭 Other languages: Python, Java, Scala
 - ⚡ Tools: Docker, Kubernetes, Git, Bash, Linux
 - 😄 IDE: VSC, PyCharm, IntelliJ IDEA,
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michalbidzinski1&theme=github_dark )
 
 </br>
 
