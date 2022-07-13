@@ -20,6 +20,9 @@ My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michalbidzinski1&theme=github_dark )
 
+## Certificates
+- 💻 Cisco CCNA R&S: Introduction to Networks
+- 💻 Cisco NDG Linux Essentials
 </br>
 
 ## 📫 How to reach me
