@@ -4,8 +4,7 @@
 
 I am a second-year Computer Science Student at the University of Gdańsk (expected graduation 06/2023 Bachelor's degree). 
 The degree course enables the access to wide range of programming languages so that I
-could gain knowledge and practice in many areas. I am looking for a job
-opportunity where I can continue my development.
+could gain knowledge and practice in many areas. I am mainly intrested in Frontend, Fullstack Development & DevOps
 
 My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories) 
 
