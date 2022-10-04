@@ -2,7 +2,7 @@
 
 <h3> Hi  👋 </h3>
 
-I am a second-year Computer Science Student at the University of Gdańsk (expected graduation 06/2023 Bachelor's degree). 
+I am a third-year Computer Science Student at the University of Gdańsk (expected graduation 2023 Bachelor's degree). 
 The degree course enables the access to wide range of programming languages so that I
 could gain knowledge and practice in many areas. I am mainly intrested in Frontend, Fullstack Development & DevOps
 
@@ -14,7 +14,7 @@ My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories)
 - 💬 Frontend: React, Redux, JavaScript, CSS, SASS, HTML, 
 - 🌱 Backend: Node.js, Express.js, NoSQL and SQL Databases: Mongo-Mongoose, Redis, PostgreSQL,SQL Server, Neo4j,   
 - 🔭 Other languages: Python, Java, Scala
-- ⚡ Tools: Docker, Kubernetes, Git, Bash, Linux
+- ⚡ Tools: Microsoft Azure☁️, Docker, Kubernetes, Git, Bash, Linux
 - 😄 IDE: VSC, PyCharm, IntelliJ IDEA,
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michalbidzinski1&theme=github_dark )
