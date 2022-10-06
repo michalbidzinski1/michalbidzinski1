@@ -17,8 +17,6 @@ My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories)
 - ⚡ Tools: Microsoft Azure☁️, Docker, Kubernetes, Git, Bash, Linux
 - 😄 IDE: VSC, PyCharm, IntelliJ IDEA,
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michalbidzinski1&theme=github_dark )
-
 ## Certificates
 - 💻 Cisco CCNA R&S: Introduction to Networks
 - 💻 Cisco NDG Linux Essentials
