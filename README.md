@@ -2,9 +2,8 @@
 
 <h3> Hi  👋 </h3>
 
-I am a third-year Computer Science Student at the University of Gdańsk (expected graduation 2023 Bachelor's degree). 
-The degree course enables the access to wide range of programming languages so that I
-could gain knowledge and practice in many areas. I am mainly intrested in Frontend, Fullstack Development & DevOps
+I am a third-year Computer Science Student at the University of Gdańsk & DevOps Engineer. 
+I am  intrested in  Fullstack Development & Cloud technologies & DevOps.
 
 My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories) 
 
@@ -15,7 +14,6 @@ My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories)
 - 🌱 Backend: Node.js, Express.js, NoSQL and SQL Databases: Mongo-Mongoose, Redis, PostgreSQL,SQL Server, Neo4j,   
 - 🔭 Other languages: Python, Java, Scala
 - ⚡ Tools: Microsoft Azure☁️, Docker, Kubernetes, Git, Bash, Linux
-- 😄 IDE: VSC, PyCharm, IntelliJ IDEA,
 
 ## Certificates
 - 💻 Cisco CCNA R&S: Introduction to Networks
