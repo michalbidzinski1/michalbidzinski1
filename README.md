@@ -3,8 +3,7 @@
 <h3> Hi  👋 </h3>
 
 I am a third-year Computer Science Student at the University of Gdańsk & DevOps Engineer. 
-I am  intrested in  Fullstack Development & Cloud technologies & DevOps.
-
+I am  intrested in  Cloud technologies & DevOps.
 My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories) 
 
 </br>
@@ -16,6 +15,7 @@ My  projects: [Projects](https://github.com/michalbidzinski1?tab=repositories)
 - ⚡ Tools: Microsoft Azure☁️, Docker, Kubernetes, Git, Bash, Linux
 
 ## Certificates
+- AZ-900
 - 💻 Cisco CCNA R&S: Introduction to Networks
 - 💻 Cisco NDG Linux Essentials
 </br>
